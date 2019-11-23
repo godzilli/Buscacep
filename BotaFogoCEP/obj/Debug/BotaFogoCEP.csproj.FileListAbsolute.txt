@@ -1,0 +1,10 @@
+C:\Users\Jennifer\source\repos\BotaFogoCEP\BotaFogoCEP\bin\Debug\BotaFogoCEP.exe.config
+C:\Users\Jennifer\source\repos\BotaFogoCEP\BotaFogoCEP\bin\Debug\BotaFogoCEP.exe
+C:\Users\Jennifer\source\repos\BotaFogoCEP\BotaFogoCEP\bin\Debug\BotaFogoCEP.pdb
+C:\Users\Jennifer\source\repos\BotaFogoCEP\BotaFogoCEP\obj\Debug\BotaFogoCEP.csprojAssemblyReference.cache
+C:\Users\Jennifer\source\repos\BotaFogoCEP\BotaFogoCEP\obj\Debug\BotaFogoCEP.Properties.Resources.resources
+C:\Users\Jennifer\source\repos\BotaFogoCEP\BotaFogoCEP\obj\Debug\BotaFogoCEP.csproj.GenerateResource.cache
+C:\Users\Jennifer\source\repos\BotaFogoCEP\BotaFogoCEP\obj\Debug\BotaFogoCEP.csproj.CoreCompileInputs.cache
+C:\Users\Jennifer\source\repos\BotaFogoCEP\BotaFogoCEP\obj\Debug\BotaFogoCEP.exe
+C:\Users\Jennifer\source\repos\BotaFogoCEP\BotaFogoCEP\obj\Debug\BotaFogoCEP.pdb
+C:\Users\Jennifer\source\repos\BotaFogoCEP\BotaFogoCEP\obj\Debug\BotaFogoCEP.JanelaCEP.resources
